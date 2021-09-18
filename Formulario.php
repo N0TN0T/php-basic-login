@@ -6,8 +6,8 @@
 </head>
 
 <body style="background-image: url('mqfP5D.jpg');">
-	<h1 style="font-family:verdana; text-align:center; color:white; font-size:65%">Mentor: João Beirão nº14</h1>
-	<h1 style="font-family:verdana; text-align:center; color:white; font-size:65%">Mentorado: Duarte Soeiro nº8</h1>
+	<br>
+	<br>
 	<br>
 	<br>
 	<br>
